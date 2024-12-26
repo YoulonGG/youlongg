@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Youlong</h1>
-<h3 align="center">A passionate android app dec</h3>
 
 - 🌱 I’m currently learning Android App Development **Jetpack Compose**
 
